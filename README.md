@@ -50,19 +50,21 @@ This app is suitable for:
   * Thousands of words in the internal dictionary.
   * Randomized selection ensures a new experience each time.
 
+
 ### 🛠️ Tech Stack
 
-* **Language**: Kotlin / Java
-* **Framework**: Android SDK
-* **UI Design**: XML + Material Design Components
-* **State Management**: ViewModel + LiveData (if used)
-* **IDE**: Android Studio
+* **Language**: Kotlin
+* **UI Framework**: **Jetpack Compose**
+* **Tools**: Android Studio, Material Design
+* **State Management**: ViewModel, State
+
 
 ### 📸 Screenshots
 <p align="center">
-  <img src="assets/easy_mode.png" width="200" />
-  <img src="assets/medium_mode.png" width="200" />
-  <img src="assets/hard_mode.png" width="200" />
+  <img src="assets/easy_mode.png" width="250" />
+  <img src="assets/medium_mode.png" width="250" />
+  <img src="assets/hard_mode.png" width="250" />
+  <img src="assets/final_score_dialoge.png" width="250" />
 </p>
 
 
