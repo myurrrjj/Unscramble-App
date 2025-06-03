@@ -1,7 +1,3 @@
-Here’s a well-written, comprehensive **GitHub project description** you can use for your *Unscramble Words* Android app. It includes a professional tone, clearly explains the app's purpose and features, and highlights its unique design aspects.
-
----
-
 ## 📱 Unscramble Words – Android Game App
 
 **Unscramble Words** is a fun and engaging word puzzle game designed for Android devices, where players test their vocabulary and cognitive skills by unjumbling scrambled words within different difficulty levels. It combines brain-training with beautiful visuals and an intuitive UI to provide a rich, immersive gameplay experience.
